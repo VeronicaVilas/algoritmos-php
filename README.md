@@ -19,7 +19,7 @@ Este repositório foi criado para fins de estudo e contém diversos algoritmos i
         <tr border: none;>
             <td><b>Id</b></td>
             <td><b>Título</b></td>
-            <td width="500"><b>Descrição</b></td>
+            <td width="400"><b>Descrição</b></td>
             <td><b>Plataforma</b></td>
         </tr>
     </thead>
