@@ -97,7 +97,7 @@ Este repositório foi criado para fins de estudo e contém diversos algoritmos i
           <td>Curso em vídeo</td>
         </tr>
         <tr>
-          <td>12</td>
+          <td>13</td>
           <td><a href="simulating-an-atm">Simulating an atm</a></td>
           <td>Simula um caixa eletrônico que calcula e exibe as notas necessários para um saque solicitado.</td>
           <td>Curso em vídeo</td>
