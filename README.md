@@ -102,6 +102,18 @@ Este repositório foi criado para fins de estudo e contém diversos algoritmos i
           <td>Simula um caixa eletrônico que calcula e exibe as notas necessários para um saque solicitado.</td>
           <td>Curso em vídeo</td>
         </tr>
+        <tr>
+          <td>14</td>
+          <td><a href="linear-search">Linear Search</a></td>
+          <td>Simula um caixa eletrônico que calcula e exibe as notas necessários para um saque solicitado.</td>
+          <td><a href="https://www.geeksforgeeks.org/linear-search/">GeeksforGeeks</a></td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td><a href="binary-search">Binary Search</a></td>
+          <td>Simula um algoritmo de busca sequencial que começa em uma extremidade e passa por cada elemento de uma lista até que o elemento desejado seja encontrado.</td>
+          <td><a href="https://www.geeksforgeeks.org/binary-search/">GeeksforGeeks</a></td>
+        </tr>
     </tbody>
 </table>
 
