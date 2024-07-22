@@ -114,6 +114,12 @@ Este repositório foi criado para fins de estudo e contém diversos algoritmos i
           <td>Simula um algoritmo de busca sequencial que começa em uma extremidade e passa por cada elemento de uma lista até que o elemento desejado seja encontrado.</td>
           <td><a href="https://www.geeksforgeeks.org/binary-search/">GeeksforGeeks</a></td>
         </tr>
+        <tr>
+          <td>16</td>
+          <td><a href="binary-search">Bubble Sort</a></td>
+          <td>Classifica os algoritmos trocando repetidamente os elementos adjacentes se eles estiverem na ordem errada.</td>
+          <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/">GeeksforGeeks</a></td>
+        </tr>
     </tbody>
 </table>
 
