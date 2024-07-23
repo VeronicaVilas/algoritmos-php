@@ -26,97 +26,97 @@ Este repositório foi criado para fins de estudo e contém diversos algoritmos i
     <tbody>
         <tr>
           <td>01</td>
-          <td><a href="predecessor-and-successor">Predecessor and successor</a></td>
+          <td><a href="algorithms/predecessor-and-successor/">Predecessor and successor</a></td>
           <td>Calcula o antecessor e o sucessor de um número.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>02</td>
-          <td><a href="number-drawer">Number drawer</a></td>
+          <td><a href="algorithms/number-drawer">Number drawer</a></td>
           <td>Gera um número aleatório.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>03</td>
-          <td><a href="basic-currency-converter">Basic currency converter</a></td>
+          <td><a href="algorithms/basic-currency-converter">Basic currency converter</a></td>
           <td>Converte um valor em reais para dólares usando uma cotação fixa.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>04</td>
-          <td><a href="advanced-currency-converter">Advanced currency converter</a></td>
+          <td><a href="algorithms/advanced-currency-converter">Advanced currency converter</a></td>
           <td>Converte um valor em reais para dólares usando a cotação atual do Banco Central do Brasil.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>05</td>
-          <td><a href="analyzing-a-real-number">Analyzing a real number</a></td>
+          <td><a href="algorithms/analyzing-a-real-number">Analyzing a real number</a></td>
           <td>Analisa um número real, separando e exibindo suas partes inteira e fracionária.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>06</td>
-          <td><a href="anatomy-of-a-division">Anatomy of a division</a></td>
+          <td><a href="algorithms/anatomy-of-a-division">Anatomy of a division</a></td>
           <td>Realiza a análise de uma divisão, exibindo o dividendo, divisor, quociente e resto.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>07</td>
-          <td><a href="minimum-wage">Minimum wage</a></td>
+          <td><a href="algorithms/minimum-wage">Minimum wage</a></td>
           <td>Calcula quantos salários mínimos compõem o salário informado, exibindo o total de salários mínimos e a diferença restante.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>08</td>
-          <td><a href="roots-exercise">Roots exercise</a></td>
+          <td><a href="algorithms/roots-exercise">Roots exercise</a></td>
           <td>Calcula a raiz quadrada e a raiz cúbica do número.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>09</td>
-          <td><a href="understanding-averages">Understanding averages</a></td>
+          <td><a href="algorithms/understanding-averages">Understanding averages</a></td>
           <td>Calcula a média aritmética simples e a média ponderada.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>10</td>
-          <td><a href="time-machine">Time machine</a></td>
+          <td><a href="algorithms/time-machine">Time machine</a></td>
           <td>Calcula a idade de uma pessoa.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>11</td>
-          <td><a href="readjust-prices">Readjust prices</a></td>
+          <td><a href="algorithms/readjust-prices">Readjust prices</a></td>
           <td>Calcula o novo preço de um produto após aplicar um percentual de reajuste.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>12</td>
-          <td><a href="time-calculator">Time calculator</a></td>
+          <td><a href="algorithms/time-calculator">Time calculator</a></td>
           <td>Calcula um total de segundos em semanas, dias, horas, minutos e segundos.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>13</td>
-          <td><a href="simulating-an-atm">Simulating an atm</a></td>
+          <td><a href="algorithms/simulating-an-atm">Simulating an atm</a></td>
           <td>Simula um caixa eletrônico que calcula e exibe as notas necessários para um saque solicitado.</td>
           <td>Curso em vídeo</td>
         </tr>
         <tr>
           <td>14</td>
-          <td><a href="linear-search">Linear Search</a></td>
+          <td><a href="algorithms/linear-search">Linear Search</a></td>
           <td>Simula um caixa eletrônico que calcula e exibe as notas necessários para um saque solicitado.</td>
           <td><a href="https://www.geeksforgeeks.org/linear-search/">GeeksforGeeks</a></td>
         </tr>
         <tr>
           <td>15</td>
-          <td><a href="binary-search">Binary Search</a></td>
+          <td><a href="algorithms/binary-search">Binary Search</a></td>
           <td>Simula um algoritmo de busca sequencial que começa em uma extremidade e passa por cada elemento de uma lista até que o elemento desejado seja encontrado.</td>
           <td><a href="https://www.geeksforgeeks.org/binary-search/">GeeksforGeeks</a></td>
         </tr>
         <tr>
           <td>16</td>
-          <td><a href="binary-search">Bubble Sort</a></td>
+          <td><a href="algorithms/binary-search">Bubble Sort</a></td>
           <td>Classifica os algoritmos trocando repetidamente os elementos adjacentes se eles estiverem na ordem errada.</td>
           <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/">GeeksforGeeks</a></td>
         </tr>
